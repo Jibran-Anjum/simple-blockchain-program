@@ -2,12 +2,12 @@
 
 ## Required Skills
 
-1. know about [Blockchain](#Blockchain?)
+1. know about [Blockchain](#Blockchain)
 2. know about [OOP-Python](#OOP-Python)
 3. learn how to use the [hashlib module](#hashlib)
 4. learn how to use the [datetime module](#datetime)
 
-### Blockchain?
+### Blockchain
 It is a database or ledger shared among computers network's nodes. It is a system for maintaining a secure and decentralized record of transactions. Blockchains can be used to make data in any industry immutable —  the term used to describe the inability to be altered.
 
 ### OOP-Python
