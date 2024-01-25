@@ -1,7 +1,3 @@
-import hashlib
+import datetime
 
-h = hashlib.sha256()
-
-h.update(b"something")
-some = h.hexdigest()
-print(some)
+print(datetime.datetime.now())
